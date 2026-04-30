@@ -1,1 +1,3 @@
-Hello Jenkins
+FROM ubuntu:latest
+
+RUN echo "Hello Jenkins"
